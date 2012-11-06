@@ -23,3 +23,8 @@
 *.lastbuildstate
 *.res
 *.rc
+*.ipch
+*.sln
+*.sdf
+*.suo
+*.ilk

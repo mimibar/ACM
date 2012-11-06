@@ -37,15 +37,15 @@ char *nextPermutation (char * current, int n){
 
 char str[1024];
 
-int main (){
-
-	while (gets(str)){
-		int len = strlen(str), i;
-		
-		do{
-			puts(str);
-		} while (nextPermutation(str,len));
-	}
-
-	return 0;  
-}
+//int main (){
+//
+//	while (gets(str)){
+//		int len = strlen(str), i;
+//		
+//		do{
+//			puts(str);
+//		} while (nextPermutation(str,len));
+//	}
+//
+//	return 0;  
+//}

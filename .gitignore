@@ -25,6 +25,6 @@
 *.rc
 *.ipch
 *.sln
-*.sdf
+*sdf
 *.suo
 *.ilk
